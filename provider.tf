@@ -14,7 +14,7 @@ required_version = ">= 0.14.0"
 
 provider "openstack" {
   cacert_file         ="/home/cloud/snap/openstackclients/common/root-ca.crt"
-  auth_url            = "https://192.168.0.120:5000/v3"
+  auth_url            = "https://192.168.15.17:5000/v3"
   region              = "RegionOne"
   # user_name           = "admin"
   # password            = "ahw2vai7Oi0ahbei"
